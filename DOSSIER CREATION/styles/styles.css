@@ -216,27 +216,6 @@ p{
     flex-wrap:wrap;
 }
 
-/*
-.skill{
-    background:rgb(255, 255, 255);
-    border-radius: 15px;
-    padding:20px;
-    box-sizing:border-box;
-}
-
-.skill img{
-    width:100px;
-    height:100px;
-    aspect-ratio:1/1;
-    object-fit: contain
-}
-
-.skill h3{
-    color:#000;
-    margin-top:10px;
-}
-*/
-
 .projets{
     height:auto;
     aspect-ratio:1/1;
