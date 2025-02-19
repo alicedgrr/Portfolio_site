@@ -45,7 +45,6 @@ html {
     display:flex;
 }
 
-
 header{
     position:fixed;
     top:0;
@@ -180,7 +179,6 @@ p{
 .section{
     padding:100px 0;
     background-image:url(https://i.pinimg.com/736x/25/ba/ca/25baca4a24cdddb92dd4eb4e9bb648aa.jpg);
-    /*margin-top: -60px;*/
 }
 
 .dark{
@@ -444,7 +442,6 @@ p{
         width:100% !important;
         position: relative;
     }
-
     
     .projets img{
         max-width: 100%;
@@ -459,6 +456,4 @@ p{
         font-size:1.5rem;
         padding:60px;
     }
-
 }
-
