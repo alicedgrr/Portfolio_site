@@ -11,7 +11,6 @@ const openMenu = () => {
 }
 
 const innerCursor = document.querySelector('.inner-cursor');
-/*let outerCursor =document.querySelector('.outer-cursor');*/
 const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchpoints > 0;
 
 if (!isTouchDevice) {
@@ -50,7 +49,4 @@ function moveCursor(e) {
 
     innerCursor.style.left = `${x}px`;
     innerCursor.style.top = `${y}px`;
-    /*outerCursor.style.left = `${x}px`;
-    outerCursor.style.top = `${y}px`;*/
-
 }
